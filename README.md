@@ -1,12 +1,12 @@
-# vivekstoken
+# Vivekstoken
 This is a smart contrct wrote in solidity language in which I had created a token of my name as vivektoken and I have used the mint
 and the burn functions in my contract.
 
-# description
+# Description
 Solidity is a popular language present for making the smart contracts in the ethereum blockchain which are self excutable. In this code I have mint and burn function.
 Mint function adds token in the existing balance, and the other burn function burn some token from the user wallet.
 
-# how to run
+# How to run
 Copy this code and go to the remix ide and run the this code.
 
         pragma solidity ^0.8.0;
